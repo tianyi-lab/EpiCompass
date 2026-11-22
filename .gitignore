@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/
+*.err
+*.tmp
+.env
+*.env
