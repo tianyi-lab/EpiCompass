@@ -9,9 +9,9 @@
 <p align="center">
   <a href="https://yu-fangxu.github.io/">Fangxu Yu</a><sup>1</sup>,
   <a href="https://ft2023.github.io/taofeng.github.io/">Tao Feng</a><sup>2</sup>,
-  Xuying Ning<sup>2</sup>,
-  Haolin Yang<sup>3</sup>,
-  Jiaxuan You<sup>2</sup>,
+  <a href="https://xuyingning.com/">Xuying Ning</a><sup>2</sup>,
+  <a href="https://openreview.net/profile?id=~Haolin_Yang10">Haolin Yang</a><sup>3</sup>,
+  <a href="https://cs.stanford.edu/~jiaxuan/">Jiaxuan You</a><sup>2</sup>,
   <a href="https://tianyizhou.github.io/">Tianyi Zhou</a><sup>3</sup>
 </p>
 
